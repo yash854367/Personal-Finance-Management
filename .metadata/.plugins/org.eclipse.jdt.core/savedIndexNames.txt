@@ -1,0 +1,10 @@
+INDEX VERSION 1.134+D:\personal finance management\.metadata\.plugins\org.eclipse.jdt.core
+2539716771.index
+1555486381.index
+2008541616.index
+1865797976.index
+1698827149.index
+2032848932.index
+1147302994.index
+4241341459.index
+1215277824.index
